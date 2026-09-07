@@ -1,4 +1,4 @@
-# Team Dragonfly Small Group project
+# Team Dragonfly Group project
 
 ## Team members
 The members of the team are:
