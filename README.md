@@ -10,21 +10,6 @@ The members of the team are:
 ## Project structure
 The project is called `code_tutors`.  It currently consists of a single app `tutorials`.
 
-## Deployed version of the application
-The deployed version of the application can be found at [https://jpaul.pythonanywhere.com/](https://jpaul.pythonanywhere.com/).
-
-admin credentials:
-username: @johndoe
-password: Password123
-
-student credentials:
-username: @charlie
-password: Password123
-
-tutor credentials:
-username: @janedoe
-password: Password123
-
 ## Installation instructions
 To install the software and use it in your local development environment, you must first set up and activate a local development environment.  From the root of the project:
 
